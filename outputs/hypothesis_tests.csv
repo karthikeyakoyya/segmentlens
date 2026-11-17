@@ -1,0 +1,5 @@
+hypothesis,statistic,p_value,effect_size,effect_type,p_bonferroni,significant_at_0.05
+H1 avg order value: top vs bottom segment (Welch t),74.55322,0.0,4.3149,Cohen d,0.0,True
+H2 repeat purchase depends on segment (chi-square),2051.39857,0.0,0.6941,Cramer V,0.0,True
+H3 repeat purchase depends on channel (chi-square),0.31049,0.85621,0.00854,Cramer V,1.0,False
+H4 discount share differs by region (Kruskal-Wallis),1.1672,0.76088,,n/a,1.0,False

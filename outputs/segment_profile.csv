@@ -1,0 +1,4 @@
+segment,customers,recency_days,frequency,monetary,discount_share
+0,1092,285.11,1.64,35.05,0.45
+1,2470,37.95,11.64,39.65,0.53
+2,696,102.7,3.58,148.62,0.19
